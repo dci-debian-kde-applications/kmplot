@@ -1,0 +1,32 @@
+kmplot (4:4.7.2-0ubuntu1) oneiric-proposed; urgency=low
+
+  * New upstream release (LP: #872506)
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Tue, 04 Oct 2011 19:59:16 +0200
+
+kmplot (4:4.7.1-0ubuntu2) oneiric; urgency=low
+
+  * No-change rebuild so translations aren't stripped from .desktop
+    files anymore.
+
+ -- Felix Geyer <debfx-pkg@fobos.de>  Fri, 16 Sep 2011 01:01:13 +0200
+
+kmplot (4:4.7.1-0ubuntu1) oneiric; urgency=low
+
+  * New upstream release
+
+ -- Jonathan Kolberg <bulldog98@kubuntu-de.org>  Fri, 09 Sep 2011 23:43:58 -0400
+
+kmplot (4:4.7.0-0ubuntu1) oneiric; urgency=low
+
+  * New upstream release
+    - Bump kde-sc-dev-latest build dep to 4:4.7.0
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Sun, 24 Jul 2011 02:04:21 +0530
+
+kmplot (4:4.6.90+repack-0ubuntu1) oneiric; urgency=low
+
+  * Initial release (moved out of kdeedu)
+  * Repack upstream source to include a copy of the FDL
+
+ -- Harald Sitter <apachelogger@ubuntu.com>  Sun, 10 Jul 2011 11:52:51 +0200

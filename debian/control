@@ -1,0 +1,32 @@
+Source: kmplot
+Section: kde
+Priority: optional
+Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
+XSBC-Original-Maintainer: Harald Sitter <apachelogger@ubuntu.com>
+Build-Depends: kde-sc-dev-latest (>= 4:4.7.2),
+ cmake, debhelper (>= 7.3.16), pkg-kde-tools (>= 0.12),
+ kdelibs5-dev (>= 4:4.6)
+Standards-Version: 3.9.2
+Homepage: http://edu.kde.org/
+Vcs-Browser: http://bazaar.launchpad.net/~kubuntu-packagers/kubuntu-packaging/kmplot
+Vcs-Bzr: https://code.launchpad.net/~kubuntu-packagers/kubuntu-packaging/kmplot
+
+Package: kmplot
+Architecture: any
+Section: math
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Suggests: khelpcenter4
+Description: mathematical function plotter for KDE
+ KmPlot is a powerful mathematical plotter KDE, capable of plotting multiple
+ functions simultaneously and combining them into new functions.
+ .
+ Cartesian, parametric, and differential functions are supported, as well as
+ functions using polar coordinates.  Plots are printed with high precision at
+ the correct aspect ratio.
+ .
+ KmPlot also provides numerical and visual features such as filling and
+ calculating the area between the plot and the first axis, finding maxima and
+ minima, changing function parameters dynamically, and plotting derivatives
+ and integral functions.
+ .
+ This package is part of the KDE education module.
