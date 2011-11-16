@@ -16,6 +16,7 @@ Copyright: 2000-2002, Klaus-Dieter Möller <kd.moeller@t-online.de>
 License: GFDL-1.2+
 
 Files: debian/*
+Copyright: 2011, Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Copyright: 2011, Harald Sitter <apachelogger@ubuntu.com>
 License: GPL-2+
 
