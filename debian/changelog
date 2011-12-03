@@ -1,6 +1,6 @@
-kmplot (4:4.7.2-1) UNRELEASED; urgency=low
+kmplot (4:4.7.2-1) experimental; urgency=low
 
   [ Felix Geyer ]
   * Initial release, based on the Kubuntu package.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 25 Oct 2011 00:23:02 +0200
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 03 Dec 2011 10:46:05 -0300
