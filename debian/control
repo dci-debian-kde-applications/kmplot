@@ -17,7 +17,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/kmplot.git
 Package: kmplot
 Architecture: any
 Section: math
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${shlibs:Depends}, ${misc:Depends}, libkdeedu-data
 Suggests: khelpcenter4
 Description: mathematical function plotter for KDE
  KmPlot is a powerful mathematical plotter KDE, capable of plotting multiple
