@@ -1,6 +1,7 @@
 kmplot (4:4.11.3-2) UNRELEASED; urgency=low
 
   * Update Uploaders list.
+  * Bump Standards-Version to 3.9.5, no changes needed.
 
  -- Maximiliano Curia <maxy@debian.org>  Tue, 26 Nov 2013 16:31:07 +0100
 
