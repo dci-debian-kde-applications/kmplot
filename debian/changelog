@@ -1,9 +1,10 @@
-kmplot (4:4.11.3-2) UNRELEASED; urgency=low
+kmplot (4:4.12.2-1) UNRELEASED; urgency=low
 
   * Update Uploaders list.
   * Bump Standards-Version to 3.9.5, no changes needed.
+  * New upstream release.
 
- -- Maximiliano Curia <maxy@debian.org>  Tue, 26 Nov 2013 16:31:07 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 04 Feb 2014 19:01:32 +0100
 
 kmplot (4:4.11.3-1) unstable; urgency=low
 
