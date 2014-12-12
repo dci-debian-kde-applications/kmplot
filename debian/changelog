@@ -1,8 +1,12 @@
-kmplot (4:14.11.97-0ubuntu2) UNRELEASED; urgency=medium
+kmplot (4:14.12.0-0ubuntu1) UNRELEASED; urgency=medium
 
+  [ Philip Muškovac ]
   * Depend on kdeedu-data instead of libkdeedu-data
 
- -- Philip Muškovac <yofel@kubuntu.org>  Sat, 06 Dec 2014 11:22:17 +0100
+  [ Scarlett Clark ]
+  * New upstream release
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 12 Dec 2014 10:23:21 -0800
 
 kmplot (4:14.11.97-0ubuntu1) vivid; urgency=medium
 
