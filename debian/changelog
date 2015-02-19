@@ -29,11 +29,11 @@ kmplot (4:14.11.97-0ubuntu1) vivid; urgency=medium
 
 kmplot (4:14.11.95-0ubuntu1) vivid; urgency=medium
 
-  * Initial release for KDE applications 14.12 series 
+  * Initial release for KDE applications 14.12 series
    - Change maintainer to Debian/Kubuntu
-   - Fix Watch file applications locations 
+   - Fix Watch file applications locations
    - Fix VCS for new kde-applications location
-  * Debian merge, no remaining changes. 
+  * Debian merge, no remaining changes.
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 26 Nov 2014 16:48:33 +0000
 
@@ -169,8 +169,8 @@ kmplot (4:4.7.4-2) unstable; urgency=low
 
 kmplot (4:4.7.4-1) experimental; urgency=low
 
-  * New upstream release. 
-  
+  * New upstream release.
+
   [ José Manuel Santamaría Lema ]
   * Bump kde-sc-dev-latest build dependency to 4:4.7.4.
   * Add myself to Uploaders.
@@ -325,7 +325,7 @@ kmplot (4:4.10.2-0ubuntu1) raring; urgency=low
 kmplot (4:4.10.1-0ubuntu1) raring-proposed; urgency=low
 
   * New upstream bugfix release
-  * Fix copyright syntax 
+  * Fix copyright syntax
 
  -- Philip Muškovac <yofel@kubuntu.org>  Tue, 05 Mar 2013 16:33:37 +0000
 
@@ -431,7 +431,7 @@ kmplot (4:4.8.2-0ubuntu1) precise; urgency=low
 
 kmplot (4:4.8.1-0ubuntu1) precise; urgency=low
 
-  * New upstream release 
+  * New upstream release
 
  -- Philip Muškovac <yofel@kubuntu.org>  Sun, 04 Mar 2012 20:34:34 +0100
 
@@ -467,8 +467,8 @@ kmplot (4:4.7.4-2) unstable; urgency=low
 
 kmplot (4:4.7.4-1) experimental; urgency=low
 
-  * New upstream release. 
-  
+  * New upstream release.
+
   [ José Manuel Santamaría Lema ]
   * Bump kde-sc-dev-latest build dependency to 4:4.7.4.
   * Add myself to Uploaders.
@@ -521,4 +521,3 @@ kmplot (4:4.6.90+repack-0ubuntu1) oneiric; urgency=low
   * Repack upstream source to include a copy of the FDL
 
  -- Harald Sitter <apachelogger@ubuntu.com>  Sun, 10 Jul 2011 11:52:51 +0200
-
