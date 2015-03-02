@@ -11,6 +11,7 @@ Build-Depends: cmake,
                libkf5kdelibs4support-dev,
                libkf5parts-dev,
                libkf5widgetsaddons-dev,
+               libqt5svg5-dev,
                pkg-kde-tools (>= 0.12),
                qtbase5-dev (>= 5.3.0)
 Standards-Version: 3.9.6
