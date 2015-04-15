@@ -1,8 +1,9 @@
-kmplot (4:14.12.3-0ubuntu2) UNRELEASED; urgency=medium
+kmplot (4:15.04.0-0ubuntu1) UNRELEASED; urgency=medium
 
   * Manual merge 
+  * New upstream release
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 13 Mar 2015 19:49:55 -0700
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 15 Apr 2015 12:01:07 -0700
 
 kmplot (4:14.12.3-0ubuntu1) vivid; urgency=medium
 
