@@ -1,10 +1,16 @@
-kmplot (4:15.04.3-1~) UNRELEASED; urgency=medium
+kmplot (4:15.08.0-1) unstable; urgency=medium
 
-  * New upstream release (15.04.0).
-  * New upstream release (15.04.1).
-  * New upstream release (15.04.3).
+  * Upload to unstable
 
- -- Maximiliano Curia <maxy@debian.org>  Fri, 03 Jul 2015 16:08:50 +0200
+  [ Maximiliano Curia ]
+  * New upstream release (15.08.0).
+
+  [ Scott Kitterman ]
+  * Drop obsolete build-depends on kde-sc-dev-latest and kdelibs5-dev
+  * Update debian/rules to use /usr/share/pkg-kde-tools/qt-kde-team/3/
+    debian-qt-kde.mk
+
+ -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Thu, 03 Sep 2015 18:43:03 -0400
 
 kmplot (4:14.12.3-1) experimental; urgency=medium
 
