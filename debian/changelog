@@ -1,9 +1,9 @@
-kmplot (4:15.08.2-0ubuntu1) UNRELEASED; urgency=medium
+kmplot (4:15.08.2-0ubuntu1) wily; urgency=medium
 
   * Vivid backport
   * New upstream release
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 09 Oct 2015 14:26:44 -0700
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 14 Oct 2015 12:35:56 +0100
 
 kmplot (4:15.08.1-0ubuntu1) wily; urgency=medium
 
