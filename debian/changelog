@@ -1,10 +1,11 @@
-kmplot (4:15.12.3-1~1.gbpbd17e8) UNRELEASED; urgency=medium
+kmplot (4:16.04.0-1~1.gbpb40591) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @bd17e8c8972f7e1c7d8dc56d7f5013acb67cd2b1 **
+  ** SNAPSHOT build @b40591752a665aac840c93ad45d7b8d32eb2a3dd **
 
   * Bump Standards-Version to 3.9.8
+  * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 12:16:14 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 05:15:11 +0200
 
 kmplot (4:15.12.1-1) experimental; urgency=medium
 
