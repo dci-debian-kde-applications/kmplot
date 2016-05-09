@@ -1,11 +1,19 @@
-kmplot (4:16.04.0-1~1.gbpb40591) UNRELEASED; urgency=medium
+kmplot (4:16.04.0-1~2.gbp963c4f) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @963c4fefb82addd2229fd959422e5114c55503ef **
+
+  [ Automatic packaging ]
   ** SNAPSHOT build @b40591752a665aac840c93ad45d7b8d32eb2a3dd **
 
   * Bump Standards-Version to 3.9.8
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 05:15:11 +0200
+  [ Maximiliano Curia ]
+  * New upstream release (15.12.2).
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 13:15:16 +0200
 
 kmplot (4:15.12.1-1) experimental; urgency=medium
 
