@@ -1,6 +1,6 @@
-kmplot (4:16.04.0-1~2.gbp963c4f) UNRELEASED; urgency=medium
+kmplot (4:16.04.1-1~1.gbp4310ae) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @963c4fefb82addd2229fd959422e5114c55503ef **
+  ** SNAPSHOT build @4310ae5996bdba679b4bc463457a094ae79c3ece **
 
   [ Automatic packaging ]
   ** SNAPSHOT build @b40591752a665aac840c93ad45d7b8d32eb2a3dd **
@@ -12,8 +12,9 @@ kmplot (4:16.04.0-1~2.gbp963c4f) UNRELEASED; urgency=medium
   * New upstream release (15.12.2).
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * UNRELEASED
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 13:15:16 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 10 May 2016 23:15:27 +0200
 
 kmplot (4:15.12.1-1) experimental; urgency=medium
 
