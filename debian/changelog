@@ -1,10 +1,9 @@
-kmplot (4:16.04.2-1~1.gbpfa3fb1) UNRELEASED; urgency=medium
+kmplot (4:16.04.2-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @fa3fb10a3ee2352677a9db7b7b43a39c17642713 **
-
+  [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 15 Jun 2016 05:15:10 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 22 Jun 2016 21:42:01 +0200
 
 kmplot (4:16.04.1-1) unstable; urgency=medium
 
