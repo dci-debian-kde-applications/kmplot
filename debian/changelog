@@ -1,3 +1,11 @@
+kmplot (4:16.08.0-1~1.gbpd8de53) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @d8de53ec79a86508cf13f61547dfefbd721c0428 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 23:15:12 +0200
+
 kmplot (4:16.04.2-1) unstable; urgency=medium
 
   [ Automatic packaging ]
