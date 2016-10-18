@@ -1,16 +1,12 @@
-kmplot (4:16.08.1-1~1.gbpfc736b) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @fc736b15ecd058827bdb17688e36cb06ae9a3809 **
+kmplot (4:16.08.1-1) unstable; urgency=medium
 
   [ Maximiliano Curia ]
-  ** SNAPSHOT build @d8de53ec79a86508cf13f61547dfefbd721c0428 **
-
-  * UNRELEASED
+  * New upstream release (16.08.1)
 
   [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 08 Sep 2016 23:15:47 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 19 Oct 2016 00:11:23 +0200
 
 kmplot (4:16.04.2-1) unstable; urgency=medium
 
