@@ -1,10 +1,8 @@
-kmplot (4:16.08.3-1~1.gbpd40e0a) UNRELEASED; urgency=medium
+kmplot (4:16.08.3-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @d40e0a15d6b30b83c3e593c15c5c7e361d4d7161 **
+  * New upstream release (16.08.3)
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 10 Nov 2016 23:15:13 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 23 Nov 2016 21:13:47 +0100
 
 kmplot (4:16.08.1-1) unstable; urgency=medium
 
