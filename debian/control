@@ -26,6 +26,8 @@ Architecture: any
 Section: math
 Depends: kdeedu-data, ${misc:Depends}, ${shlibs:Depends}
 Suggests: khelpcenter
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Description: mathematical function plotter for KDE
  KmPlot is a powerful mathematical plotter KDE, capable of plotting multiple
  functions simultaneously and combining them into new functions.
