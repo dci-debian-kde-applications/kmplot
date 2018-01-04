@@ -1,0 +1,54 @@
+---
+name: kmplot
+version: 17.08.1
+summary: Function Plotter
+description: KmPlot is a program to plot graphs of functions, their integrals or derivatives.
+    The graphs can be colorized and the view is highly configurable, is scalable,
+    and can be zoomed. The program features a powerful mathematical parser, different
+    plot types (cartesian, parametric, polar, implicit, differential), and provides
+    simple mathematical tools like for finding maximum/minimum of a function. Parametrized
+    functions can be visualized by adjusting the variable parameter via a slider.
+    Plots can be exported as bitmap format pictures (BMP, PNG) and can be printed.
+confinement: strict
+grade: stable
+apps:
+    kmplot:
+        command: kf5-launch kmplot
+        plugs:
+        - kde-frameworks-5-plug
+        - home
+        - x11
+        - opengl
+        - network
+        - network-bind
+        - unity7
+        - pulseaudio
+slots:
+    session-dbus-interface:
+        interface: dbus
+        name: org.kde.kmplot
+        bus: session
+plugs:
+    kde-frameworks-5-plug:
+        content: kde-frameworks-5-all
+        interface: content
+        default-provider: kde-frameworks-5
+        target: kf5
+parts:
+    kmplot:
+        after:
+        - kde-frameworks-5-dev
+        - kde-frameworks-5-env
+        plugin: cmake
+        build-packages:
+        - kdoctools-dev
+        - libkf5kdelibs4support-dev
+        - libpulse0
+        source: https://download.kde.org/stable/applications/17.08.1/src/kmplot-17.08.1.tar.xz
+        configflags:
+        - "-DKDE_INSTALL_USE_QT_SYS_PATHS=ON"
+        - "-DCMAKE_INSTALL_PREFIX=/usr"
+        - "-DCMAKE_BUILD_TYPE=Release"
+        - "-DENABLE_TESTING=OFF"
+        - "-DBUILD_TESTING=OFF"
+        - "-DKDE_SKIP_TEST_SETTINGS=ON"
